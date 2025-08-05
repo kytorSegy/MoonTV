@@ -85,23 +85,11 @@
       "api": "https://zy.xmm.hk/api.php/provide/vod",
       "name": "小猫咪资源"
     }
-  }
+  },
   "custom_category": [
     {
       "type": "movie",
-      "query": "悬疑"
-    }
-    {
-      "type": "movie",
-      "query": "动作"
-    }
-    {
-      "type": "movie",
       "query": "科幻"
-    }
-    {
-      "type": "movie",
-      "query": "喜剧"
     }
   ]
 }
