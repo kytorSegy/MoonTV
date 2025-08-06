@@ -90,6 +90,34 @@
     {
       "type": "movie",
       "query": "科幻"
+    },
+    {
+      "type": "movie",
+      "query": "悬疑"
+    },
+    {
+      "type": "movie",
+      "query": "喜剧"
+    },
+    {
+      "type": "movie",
+      "query": "爱情"
+    },
+    {
+      "type": "movie",
+      "query": "恐怖"
+    },
+    {
+      "type": "tv",
+      "query": "高分国产"
+    },
+    {
+      "type": "tv",
+      "query": "高分韩剧"
+    },
+    {
+      "type": "tv",
+      "query": "高分美剧"
     }
   ]
 }
