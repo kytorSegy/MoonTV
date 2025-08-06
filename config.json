@@ -106,18 +106,6 @@
     {
       "type": "movie",
       "query": "恐怖"
-    },
-    {
-      "type": "tv",
-      "query": "高分国产"
-    },
-    {
-      "type": "tv",
-      "query": "高分韩剧"
-    },
-    {
-      "type": "tv",
-      "query": "高分美剧"
     }
   ]
 }
